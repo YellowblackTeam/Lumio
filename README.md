@@ -1,1 +1,1 @@
-# Lumio 3D
+# Lumio
